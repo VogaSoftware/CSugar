@@ -3,9 +3,9 @@ const path = require('path');
 
 let appIcon;
 let win;
-const disabledIconPath = path.join(__dirname, 'images', 'night-19.png');
-const appSuspensionIconPath = path.join(__dirname, 'images', 'sunset-19.png');
-const displaySleepIconPath = path.join(__dirname, 'images', 'day-19.png');
+const disabledIconPath = path.join(__dirname, 'assets', 'logo.png');
+const appSuspensionIconPath = path.join(__dirname, 'assets', 'suspend.png');
+const displaySleepIconPath = path.join(__dirname, 'assets', 'display.png');
 
 app.on('ready', function(){
   win = new BrowserWindow({show: false});
