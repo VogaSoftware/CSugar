@@ -1,0 +1,29 @@
+{
+  "name": "csugar",
+  "version": "1.3.2",
+  "description": "Advanced step-in for caffine.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VogaSoftware/csugar.git"
+  },
+  "keywords": [
+    "Caffine",
+    "Sugar",
+    "ElectronJS",
+    "Theesenuts"
+  ],
+  "author": "Graham Dianaty (@gmdianaty)",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/VogaSoftware/csugar/issues"
+  },
+  "homepage": "https://csugar.cf/",
+  "devDependencies": {
+    "electron-packager": "*",
+	"electron-packager-interactive": "*"
+  },
+  "dependencies": {
+    "electron": "*"
+  }
+}
