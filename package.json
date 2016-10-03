@@ -1,7 +1,7 @@
 {
   "name": "csugar",
   "version": "2.3.2",
-  "description": "Advanced step-in for caffine.",
+  "description": "Advanced step-in for caffine built specially for lunix.",
   "main": "main.js",
   "repository": {
     "type": "git",
