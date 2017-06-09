@@ -1,6 +1,10 @@
 CSugar
 ==
 
+*What happened to this project?*
+Its still alive and well, and not glitched as of yet. I have abosultley no reason to continue to work on it because no major bugs have been found as of yet.
+
+
 Keep a computer awake but in a new way, unlike allready impressive applications like Caffeine.
 
 ## Modes
